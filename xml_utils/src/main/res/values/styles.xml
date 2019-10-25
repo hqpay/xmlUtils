@@ -1,0 +1,148 @@
+<resources>
+    <style name="text_left_pm_5">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/textLeft</item>
+        <item name="android:textSize">@dimen/text_14</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">@dimen/padding_left_5</item>
+        <item name="android:paddingBottom">@dimen/padding_bottom_5</item>
+        <item name="android:paddingRight">@dimen/padding_right_5</item>
+        <item name="android:paddingTop">@dimen/padding_top_5</item>
+        <item name="android:layout_marginLeft">@dimen/padding_top_5</item>
+    </style>
+    <style name="text_left">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/textLeft</item>
+        <item name="android:textSize">@dimen/text_14</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="text_right_pm_5">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/textRight</item>
+        <item name="android:textSize">@dimen/text_14</item>
+        <item name="android:gravity">center_vertical|right</item>
+        <item name="android:paddingLeft">@dimen/padding_left_5</item>
+        <item name="android:paddingBottom">@dimen/padding_bottom_5</item>
+        <item name="android:paddingRight">@dimen/padding_right_5</item>
+        <item name="android:paddingTop">@dimen/padding_top_5</item>
+        <item name="android:layout_marginLeft">@dimen/padding_top_5</item>
+    </style>
+    <style name="text_right">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/textRight</item>
+        <item name="android:textSize">@dimen/text_14</item>
+        <item name="android:gravity">center_vertical|right</item>
+
+    </style>
+    <style name="text_center_pm_5">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/textCenter</item>
+        <item name="android:textSize">@dimen/text_16</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingLeft">@dimen/padding_left_5</item>
+        <item name="android:paddingBottom">@dimen/padding_bottom_5</item>
+        <item name="android:paddingRight">@dimen/padding_right_5</item>
+        <item name="android:paddingTop">@dimen/padding_top_5</item>
+        <item name="android:layout_marginLeft">@dimen/padding_top_5</item>
+    </style>
+    <style name="text_center">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/textCenter</item>
+        <item name="android:textSize">@dimen/text_16</item>
+        <item name="android:gravity">center</item>
+
+    </style>
+    <style name="text_title_pm_5">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/textLeft</item>
+        <item name="android:textSize">@dimen/text_18</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingLeft">@dimen/padding_left_5</item>
+        <item name="android:paddingBottom">@dimen/padding_bottom_5</item>
+        <item name="android:paddingRight">@dimen/padding_right_5</item>
+        <item name="android:paddingTop">@dimen/padding_top_5</item>
+        <item name="android:layout_marginLeft">@dimen/padding_top_5</item>
+    </style>
+    <style name="text_title">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/textLeft</item>
+        <item name="android:textSize">@dimen/text_18</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="image_left">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:paddingLeft">@dimen/padding_left_5</item>
+        <item name="android:paddingBottom">@dimen/padding_bottom_5</item>
+        <item name="android:paddingRight">@dimen/padding_right_5</item>
+        <item name="android:paddingTop">@dimen/padding_top_5</item>
+        <item name="android:layout_marginLeft">@dimen/padding_top_5</item>
+    </style>
+
+    <style name="image_right">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_vertical|right</item>
+        <item name="android:paddingLeft">@dimen/padding_left_5</item>
+        <item name="android:paddingBottom">@dimen/padding_bottom_5</item>
+        <item name="android:paddingRight">@dimen/padding_right_5</item>
+        <item name="android:paddingTop">@dimen/padding_top_5</item>
+        <item name="android:layout_marginLeft">@dimen/padding_top_5</item>
+    </style>
+    <style name="image_center">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:paddingLeft">@dimen/padding_left_5</item>
+        <item name="android:paddingBottom">@dimen/padding_bottom_5</item>
+        <item name="android:paddingRight">@dimen/padding_right_5</item>
+        <item name="android:paddingTop">@dimen/padding_top_5</item>
+        <item name="android:layout_marginLeft">@dimen/padding_top_5</item>
+    </style>
+
+    <style name="linear_center_vertical_wrap_h">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+    <style name="linear_center_vertical_wrap_v">
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+    <style name="linear_center_vertical_match_h">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+    <style name="linear_center_vertical_match_v">
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+    <style name="relative_match">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="relative_wrap_content">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+</resources>

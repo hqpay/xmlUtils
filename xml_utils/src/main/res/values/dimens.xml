@@ -1,0 +1,98 @@
+<resources>
+    <dimen name="text_25">25dp</dimen>
+    <dimen name="text_24">24dp</dimen>
+    <dimen name="text_23">23dp</dimen>
+    <dimen name="text_22">22dp</dimen>
+    <dimen name="text_21">21dp</dimen>
+    <dimen name="text_20">20dp</dimen>
+    <dimen name="text_19">19dp</dimen>
+    <dimen name="text_18">18dp</dimen>
+    <dimen name="text_17">17dp</dimen>
+    <dimen name="text_16">16dp</dimen>
+    <dimen name="text_15">15dp</dimen>
+    <dimen name="text_14">14dp</dimen>
+    <dimen name="text_13">13dp</dimen>
+    <dimen name="text_12">12dp</dimen>
+    <dimen name="text_11">11dp</dimen>
+    <dimen name="text_10">10dp</dimen>
+
+    <dimen name="img_20">20dp</dimen>
+    <dimen name="img_25">25dp</dimen>
+    <dimen name="img_30">30dp</dimen>
+    <dimen name="img_35">35dp</dimen>
+    <dimen name="img_40">40dp</dimen>
+    <dimen name="img_45">45dp</dimen>
+    <dimen name="img_50">50dp</dimen>
+    <dimen name="img_55">55dp</dimen>
+    <dimen name="img_60">60dp</dimen>
+    <dimen name="img_65">65dp</dimen>
+    <dimen name="img_70">70dp</dimen>
+    <dimen name="img_75">75dp</dimen>
+    <dimen name="img_80">80dp</dimen>
+    <dimen name="img_85">85dp</dimen>
+    <dimen name="img_90">90dp</dimen>
+    <dimen name="img_95">95dp</dimen>
+    <dimen name="img_100">100dp</dimen>
+    <dimen name="img_105">105dp</dimen>
+    <dimen name="img_110">110dp</dimen>
+    <dimen name="img_115">115dp</dimen>
+    <dimen name="img_120">120dp</dimen>
+    <dimen name="img_125">125dp</dimen>
+    <dimen name="img_130">130dp</dimen>
+
+    <dimen name="padding_left_5">5dp</dimen>
+    <dimen name="padding_left_10">10dp</dimen>
+    <dimen name="padding_left_15">15dp</dimen>
+    <dimen name="padding_left_20">20dp</dimen>
+    <dimen name="padding_left_25">25dp</dimen>
+    <dimen name="padding_left_30">30dp</dimen>
+
+    <dimen name="padding_right_5">5dp</dimen>
+    <dimen name="padding_right_10">10dp</dimen>
+    <dimen name="padding_right_15">15dp</dimen>
+    <dimen name="padding_right_20">20dp</dimen>
+    <dimen name="padding_right_25">25dp</dimen>
+    <dimen name="padding_right_30">30dp</dimen>
+
+    <dimen name="padding_top_5">5dp</dimen>
+    <dimen name="padding_top_10">10dp</dimen>
+    <dimen name="padding_top_15">15dp</dimen>
+    <dimen name="padding_top_20">20dp</dimen>
+    <dimen name="padding_top_25">25dp</dimen>
+    <dimen name="padding_top_30">30dp</dimen>
+
+    <dimen name="padding_bottom_5">5dp</dimen>
+    <dimen name="padding_bottom_10">10dp</dimen>
+    <dimen name="padding_bottom_15">15dp</dimen>
+    <dimen name="padding_bottom_20">20dp</dimen>
+    <dimen name="padding_bottom_25">25dp</dimen>
+    <dimen name="padding_bottom_30">30dp</dimen>
+
+    <dimen name="margin_Left_5">5dp</dimen>
+    <dimen name="margin_Left_10">10dp</dimen>
+    <dimen name="margin_Left_15">15dp</dimen>
+    <dimen name="margin_Left_20">20dp</dimen>
+    <dimen name="margin_Left_25">25dp</dimen>
+    <dimen name="margin_Left_30">30dp</dimen>
+
+    <dimen name="margin_Right_5">5dp</dimen>
+    <dimen name="margin_Right_10">10dp</dimen>
+    <dimen name="margin_Right_15">15dp</dimen>
+    <dimen name="margin_Right_20">20dp</dimen>
+    <dimen name="margin_Right_25">25dp</dimen>
+    <dimen name="margin_Right_30">30dp</dimen>
+
+    <dimen name="margin_Top_5">5dp</dimen>
+    <dimen name="margin_Top_10">10dp</dimen>
+    <dimen name="margin_Top_15">15dp</dimen>
+    <dimen name="margin_Top_20">20dp</dimen>
+    <dimen name="margin_Top_25">25dp</dimen>
+    <dimen name="margin_Top_30">30dp</dimen>
+
+    <dimen name="margin_Bottom_5">5dp</dimen>
+    <dimen name="margin_Bottom_10">10dp</dimen>
+    <dimen name="margin_Bottom_15">15dp</dimen>
+    <dimen name="margin_Bottom_20">20dp</dimen>
+    <dimen name="margin_Bottom_25">25dp</dimen>
+    <dimen name="margin_Bottom_30">30dp</dimen>
+</resources>
